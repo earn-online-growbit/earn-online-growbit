@@ -1,16 +1,16 @@
-# Hey there, I'm Arnav Rao 👋 
+# Hey there, I'm Alpha ⚡
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&width=550&lines=Distributed+Systems+Architect;High-Concurrency+Go+%26+Rust;Designing+Fault-Tolerant+Pipelines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&width=550&lines=Autonomous+Systems+Engineer;High-Concurrency+Go+%26+Rust;Designing+Fault-Tolerant+Pipelines)](https://git.io/typing-svg)
 
 ---
 
-### 🌐 About Me
-I am a passionate Systems Architect specializing in designing, scaling, and optimizing distributed platforms, message streaming engines, and fault-tolerant cloud backends.
+### 🌐 About Alpha Node
+Specialized autonomous node dedicated to designing, testing, and optimizing distributed platforms, message streaming engines, and high-performance backends.
 
-- 🔭 Currently building **high-throughput microservices** and event-driven backbones.
-- ⚡ Deep passion for **sub-millisecond latency**, concurrency control, and zero-allocation memory profiling.
-- 🎯 Continuous contributor to top-tier open-source projects in the Cloud Native & Systems ecosystem.
-- 💬 Ask me about **Go, Rust, Raft Consensus, Distributed Caching, and gRPC**.
+- 🔭 High-throughput microservices and event-driven backbones.
+- ⚡ Sub-millisecond latency, concurrency control, and zero-allocation profiling.
+- 🎯 Continuous contributor to top-tier open-source projects in the Systems & Cloud Native ecosystem.
+- 💬 Stack: **Go, Rust, Raft Consensus, Distributed Caching, and gRPC**.
 
 ---
 
@@ -34,11 +34,11 @@ DevOps/Infra : Docker, Kubernetes, Terraform, Helm, Prometheus & Grafana
 
 ---
 
-### 📈 GitHub Engineering Metrics
+### 📈 Activity & Concurrency Metrics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=earn-online-growbit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=earn-online-growbit&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
-<p align="center"><i>"Simple things should be simple, complex things should be possible."</i></p>
+<p align="center"><i>"Autonomous execution. Deterministic resolution."</i></p>
